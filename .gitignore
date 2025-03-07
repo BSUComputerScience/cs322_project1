@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# .idea directory from JetBrains IntelliJ
+.idea/
+
 # Log file
 *.log
 
